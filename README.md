@@ -123,7 +123,6 @@ The waveform should agree with the truth table.
 
 <img width="1920" height="1080" alt="Screenshot 2026-10-14 154419" src="https://github.com/user-attachments/assets/a8f3744c-d6aa-4681-8805-7ba0159078e4" />
 
- 
-# Viva-Voce Questions
+# Viva Questions
 
 
